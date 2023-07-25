@@ -1,0 +1,238 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ValueReturningMethods",
+            "request": "launch",
+            "mainClass": "ValueReturningMethods",
+            "projectName": "JAVAproject_9fb1c29e"
+        },
+        {
+            "type": "java",
+            "name": "SimpleMethods",
+            "request": "launch",
+            "mainClass": "SimpleMethods",
+            "projectName": "JAVAproject_9fb1c29e"
+        },
+        {
+            "type": "java",
+            "name": "PassByReference",
+            "request": "launch",
+            "mainClass": "PassByReference",
+            "projectName": "JAVAproject_9fb1c29e"
+        },
+        {
+            "type": "java",
+            "name": "PassByValue",
+            "request": "launch",
+            "mainClass": "PassByValue",
+            "projectName": "JAVAproject_9fb1c29e"
+        },
+        {
+            "type": "java",
+            "name": "Lab06E2_3",
+            "request": "launch",
+            "mainClass": "Lab06E2_3",
+            "projectName": "JAVAproject_9fb1c29e"
+        },
+        {
+            "type": "java",
+            "name": "test1",
+            "request": "launch",
+            "mainClass": "test1",
+            "projectName": "JAVAproject_9fb1c29e"
+        },
+        {
+            "type": "java",
+            "name": "Lab05E2_3",
+            "request": "launch",
+            "mainClass": "Lab05E2_3",
+            "projectName": "JAVAproject_9fb1c29e"
+        },
+        {
+            "type": "java",
+            "name": "Launch test1",
+            "request": "launch",
+            "mainClass": "test1.test1",
+            "projectName": "JAVAproject_9fb1c29e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab04E3",
+            "request": "launch",
+            "mainClass": "Lab04E3",
+            "projectName": "JAVAproject_9fb1c29e"
+        },
+        {
+            "type": "java",
+            "name": "Launch bonus",
+            "request": "launch",
+            "mainClass": "bonus",
+            "projectName": "JAVAproject_9fb1c29e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab3E2_1",
+            "request": "launch",
+            "mainClass": "week3.Lab3E2_1",
+            "projectName": "JAVAproject_9fb1c29e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab3E1",
+            "request": "launch",
+            "mainClass": "week3.Lab3E1",
+            "projectName": "JAVAproject_9fb1c29e"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringEquals",
+            "request": "launch",
+            "mainClass": "StringEquals",
+            "projectName": "JAVAproject_9fb1c29e"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringConversion",
+            "request": "launch",
+            "mainClass": "StringConversion",
+            "projectName": "JAVAproject_9fb1c29e"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringCompareTo",
+            "request": "launch",
+            "mainClass": "StringCompareTo",
+            "projectName": "JAVAproject_9fb1c29e"
+        },
+        {
+            "type": "java",
+            "name": "Launch PetFood",
+            "request": "launch",
+            "mainClass": "PetFood",
+            "projectName": "JAVAproject_9fb1c29e"
+        },
+        {
+            "type": "java",
+            "name": "Launch BooleanExpression",
+            "request": "launch",
+            "mainClass": "BooleanExpression",
+            "projectName": "JAVAproject_9fb1c29e"
+        },
+        {
+            "type": "java",
+            "name": "Launch BadStringCompare",
+            "request": "launch",
+            "mainClass": "BadStringCompare",
+            "projectName": "JAVAproject_9fb1c29e"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "JAVAproject_9fb1c29e"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "test1.test",
+            "projectName": "JAVAproject_9fb1c29e"
+        },
+        {
+            "type": "java",
+            "name": "Launch j1",
+            "request": "launch",
+            "mainClass": "test1.j1",
+            "projectName": "JAVAproject_9fb1c29e"
+        },
+        {
+            "type": "java",
+            "name": "Launch j1",
+            "request": "launch",
+            "mainClass": "j1",
+            "projectName": "JAVAproject_9fb1c29e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab2E2_5",
+            "request": "launch",
+            "mainClass": "Lab2E2_5",
+            "projectName": "JAVAproject_9fb1c29e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab2E2_4",
+            "request": "launch",
+            "mainClass": "Lab2E2_4",
+            "projectName": "JAVAproject_9fb1c29e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab2E2_3",
+            "request": "launch",
+            "mainClass": "Lab2E2_3",
+            "projectName": "JAVAproject_9fb1c29e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab2E2_2",
+            "request": "launch",
+            "mainClass": "Lab2E2_2",
+            "projectName": "JAVAproject_9fb1c29e"
+        },
+        {
+            "type": "java",
+            "name": "Launch fixedDepositCalculator",
+            "request": "launch",
+            "mainClass": "fixedDepositCalculator",
+            "projectName": "JAVAproject_9fb1c29e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab2E1",
+            "request": "launch",
+            "mainClass": "Lab2E1",
+            "projectName": "JAVAproject_9fb1c29e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Game",
+            "request": "launch",
+            "mainClass": "Game",
+            "projectName": "JAVAproject_9fb1c29e"
+        },
+        {
+            "type": "java",
+            "name": "Launch E",
+            "request": "launch",
+            "mainClass": "E",
+            "projectName": "Desktop_43be4c67"
+        },
+        {
+            "type": "java",
+            "name": "Launch hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "Desktop_43be4c67"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch hellojava",
+            "request": "launch",
+            "mainClass": "hellojava",
+            "projectName": "Desktop_43be4c67"
+        }
+    ]
+}
